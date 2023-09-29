@@ -1,0 +1,61 @@
+
+body{
+    background-color: gray;
+}
+.container{
+    width: 60%;
+    height: 550px;
+    background-color: white;
+    margin: 7% 0% 0% 20%;
+    font-family: arial;
+    display: flex;
+    
+}
+.sideA{
+    width: 40%;
+    height: 550px;
+    background-color: blue;
+    color: white;
+}
+.sideB{
+    margin: 8% 0% 0% 4%;
+}
+.text{
+    padding: 10% 0% 0% 15%;
+}
+.flipimg{
+    margin-top: 100px;
+}
+button{
+    width: 120%;
+    height: 50px;
+    font-weight: bold; 
+    background-color: white;
+    border: 1px solid gray; 
+    border-radius: 3px;
+    font-size: 15px;
+    margin-bottom: 20px;
+
+}
+.btn{
+    text-align: left;
+    color: gray;
+    font-family: arial;
+    margin-bottom: 50px;
+}
+.para{
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+}
+.btn1{
+    background-color: rgb(231, 89, 41);
+    color: white;
+    border: none;
+}
+.btn2{
+    border: none;
+    box-shadow: 1px 2px 5px gray;
+}
